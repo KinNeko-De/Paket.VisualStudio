@@ -1,3 +1,5 @@
+Archived because i do not need it anymore
+
 Paket.VisualStudio
 ==================
 
